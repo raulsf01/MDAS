@@ -1,7 +1,14 @@
-Prac_1$Temporada
 Prac_1
+Prac_1$FactoriaPedidos
+Prac_1$MenuTakeAway
+Prac_1$Restaurante
+Prac_1$ArticuloConsumicion
+Prac_1$FactoriaTakeAway
+Prac_1$Temporada
 Prac_1$FactoriaAbstracta
 Prac_1$Menu
-Prac_1$Restaurante
+Prac_1$FactoriaLocal
+Prac_1$MenuLocal
 Prac_1$Semanal
+Prac_1$PlatoTemporada
 Prac_1$Plato
